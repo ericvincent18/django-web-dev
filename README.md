@@ -1,2 +1,2 @@
 ## Django web development
-# Local repository to test django framework features
+Local repository to test django framework features
